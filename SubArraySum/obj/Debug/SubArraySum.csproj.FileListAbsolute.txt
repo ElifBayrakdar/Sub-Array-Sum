@@ -1,0 +1,6 @@
+C:\Users\Elif Bayrakdar\Desktop\HackerRank\SubArraySum\SubArraySum\bin\Debug\SubArraySum.exe.config
+C:\Users\Elif Bayrakdar\Desktop\HackerRank\SubArraySum\SubArraySum\bin\Debug\SubArraySum.exe
+C:\Users\Elif Bayrakdar\Desktop\HackerRank\SubArraySum\SubArraySum\bin\Debug\SubArraySum.pdb
+C:\Users\Elif Bayrakdar\Desktop\HackerRank\SubArraySum\SubArraySum\obj\Debug\SubArraySum.csprojAssemblyReference.cache
+C:\Users\Elif Bayrakdar\Desktop\HackerRank\SubArraySum\SubArraySum\obj\Debug\SubArraySum.exe
+C:\Users\Elif Bayrakdar\Desktop\HackerRank\SubArraySum\SubArraySum\obj\Debug\SubArraySum.pdb
