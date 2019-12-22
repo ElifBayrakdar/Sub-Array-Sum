@@ -1,6 +1,6 @@
 # Sub-Array-Sum
 
-This is a algorthm solution to find the sum of sub array items of an array. 
+This is an algorithm solution to find the sum of sub array items of an array. 
 Elements of sub array must be created from the contiguous elements of the array.
 
 Ex: given an array {1,2,3,4}
